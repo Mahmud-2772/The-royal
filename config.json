@@ -16,12 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "BOTNAME": "AMI KE?",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100086680386976",
-        "100063460095373",
-        "61550035211214"
+        "61559263811903"
     ],
     "NDH": [
         "100082395531611"
@@ -36,6 +34,37 @@
         "forceLogin": true,
         "listenEvents": true,
         "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu":": true,
         "logLevel": "error",
         "selfListen": false,
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
